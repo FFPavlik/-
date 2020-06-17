@@ -1,0 +1,6 @@
+F:\projekt\Змейка\Змейка\bin\Debug\Змейка.exe.config
+F:\projekt\Змейка\Змейка\obj\Debug\Змейка.csprojResolveAssemblyReference.cache
+F:\projekt\Змейка\Змейка\bin\Debug\Змейка.exe
+F:\projekt\Змейка\Змейка\bin\Debug\Змейка.pdb
+F:\projekt\Змейка\Змейка\obj\Debug\Змейка.exe
+F:\projekt\Змейка\Змейка\obj\Debug\Змейка.pdb
